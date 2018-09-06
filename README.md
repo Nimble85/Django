@@ -1,2 +1,2 @@
-# Django
-https://dou.ua/lenta/articles/docker/
+# 'Django'
+<https://dou.ua/lenta/articles/docker>
